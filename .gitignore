@@ -67,3 +67,4 @@ timing_report*
 /.stash
 /source/tests/timemory-*output
 /examples/ex-pmpi/mfdn-*
+/external/cereal
